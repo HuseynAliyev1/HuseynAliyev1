@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Huseyn Aliyev</h1>
-<h3 align="center">Data Analyst | Data Scientist</h3>
+<h3 align="center">Data Analyst</h3>
 
 ---
 
 ### 🧠 About Me
 🎯 Passionate about turning data into actionable insights.  
 💻 Experienced with Python, SQL, Tableau, Power BI, and Excel.  
-📊 Interested in Data Analytics, Machine Learning, and AI solutions.  
+📊 Interested in Data Analytics
 
 ---
 
